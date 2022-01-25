@@ -9,4 +9,4 @@
 - 📫 How to reach me: seymzr@gmail.com
  
 
-![](https://komarev.com/ghpvc/?username=seymzr)
+
