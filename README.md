@@ -13,3 +13,15 @@
 
 
 
+
+**Contact with me:** 
+
+<a href="https://www.instagram.com/seymzr/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="22" width="22" /></a>
+
+<a href="https://www.facebook.com/seymzr/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="22" width="22" /></a>
+
+<a href="seymzr@gmail.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="22" width="22" /></a>
+
+<br />
+<hr />
+
