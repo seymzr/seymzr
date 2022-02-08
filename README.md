@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on  learning how to program.
-- 🌱 I’m currently learning HTML,JavaScript and C++
+- 🌱 I’m currently learning HTML,CSS,JavaScript and JQuery
 - 📫 How to reach me: seymzr@gmail.com
  
  [![’s github stats](https://github-readme-stats.vercel.app/api?username=seymzr)](https://github.com/seymzr)
