@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on Full-Stack Development.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Three.js
 - 📫 How to reach me: seymzr@gmail.com
  
  [![’s github stats](https://github-readme-stats.vercel.app/api?username=seymzr)](https://github.com/seymzr)
