@@ -10,15 +10,7 @@
  
  
 
-
-**Contact with me:** 
-
-<a href="https://www.instagram.com/seymzr/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="22" width="22" /></a>
-
-<a href="https://www.facebook.com/seymzr/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="22" width="22" /></a>
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seymzr&show_icons=true&theme=transparent)
 <br />
 <hr />
 
